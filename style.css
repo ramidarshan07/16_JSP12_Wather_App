@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana sans-serif;
+}
+
+.container {
+    max-width: 650px;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.weather-info {
+    background-color: #ffffffcc;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.weather-info h3 {
+    color: #0077b6;
+    font-weight: bold;
+}
+
+.weather-info p {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+input::placeholder {
+    color: #888;
+}
