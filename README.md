@@ -5,8 +5,8 @@ A simple and beautiful Weather Web Application that lets users check real-time w
 ---
 
 ## 📸 Screenshots
-![weaather-app-suc-2](https://github.com/user-attachments/assets/aea94971-049a-4af7-ad0d-8694ac07a753)
-![weaather-app-err-1](https://github.com/user-attachments/assets/34929e65-3dd4-4fb5-8a2d-ec9065096a5c)
+![weather-suc-1](https://github.com/user-attachments/assets/3add683a-115b-49bd-afb1-63eac1f0c03a)
+![weather-err-1](https://github.com/user-attachments/assets/51d52712-fd5c-43f4-9f3f-bce2f741ca5b)
 
 ---
 
