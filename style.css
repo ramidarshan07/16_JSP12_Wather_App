@@ -23,9 +23,24 @@ h1 {
     font-weight: bold;
 }
 
+.weather-info h4 {
+    font-size: 60px;
+}
+
 .weather-info p {
     font-size: 1.2rem;
     margin: 0.5rem 0;
+}
+
+.weather-info .card {
+    background-color: #ffffffd9;
+    border-radius: 1rem;
+    min-width: 140px;
+    transition: transform 0.3s;
+}
+
+.weather-info .card:hover {
+    transform: translateY(-4px);
 }
 
 input::placeholder {
